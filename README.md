@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RancoX
-- 👀 I’m interested in programming, Breaking Bad & Better Call Saul universe, Marvel universe, fishing, cooking Chinese cuisines and sleeping
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on some machine learning project
+- 👀 I’m interested in programming, Breaking Bad & Better Call Saul universe, Marvel universe, fishing, cooking Chinese cuisines, gardening and sleeping
+- 🌱 I’m currently studying Django framework, MySQL and Machine learning algorithms
+- 💞️ I’m looking to collaborate on some machine learning projects
 - 📫 How to reach me: www.rancoxu.com/contactme
 
 <!---
